@@ -7,6 +7,7 @@ public class UserFeng {
     static{
         users.put("zyf","123456");
         users.put("tom","123");
+
         users.put("cat",null);
     }
     public static boolean register(String name, String pass) {
